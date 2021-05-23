@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F697E28B265A6A1400457F8F /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F697E28A265A6A1400457F8F /* AboutView.swift */; };
 		F6AC2044264540BE00CE5959 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AC2043264540BE00CE5959 /* AppDelegate.swift */; };
 		F6AC2046264540BE00CE5959 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AC2045264540BE00CE5959 /* SceneDelegate.swift */; };
 		F6AC2048264540BE00CE5959 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AC2047264540BE00CE5959 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F697E28A265A6A1400457F8F /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		F6AC2040264540BE00CE5959 /* SwiftUIBulleyeV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBulleyeV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6AC2043264540BE00CE5959 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F6AC2045264540BE00CE5959 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				F6AC2043264540BE00CE5959 /* AppDelegate.swift */,
 				F6AC2045264540BE00CE5959 /* SceneDelegate.swift */,
 				F6AC2047264540BE00CE5959 /* ContentView.swift */,
+				F697E28A265A6A1400457F8F /* AboutView.swift */,
 				F6AC2049264540C500CE5959 /* Assets.xcassets */,
 				F6AC204E264540C500CE5959 /* LaunchScreen.storyboard */,
 				F6AC2051264540C500CE5959 /* Info.plist */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F697E28B265A6A1400457F8F /* AboutView.swift in Sources */,
 				F6AC2044264540BE00CE5959 /* AppDelegate.swift in Sources */,
 				F6AC2046264540BE00CE5959 /* SceneDelegate.swift in Sources */,
 				F6AC2048264540BE00CE5959 /* ContentView.swift in Sources */,
